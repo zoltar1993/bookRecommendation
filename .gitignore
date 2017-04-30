@@ -1,0 +1,12 @@
+# pycharm file
+.idea/
+
+# log file
+logs/
+
+# python 编译文件
+*.pyc
+
+# data file
+*.csv
+
